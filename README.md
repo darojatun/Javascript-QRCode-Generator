@@ -30,7 +30,8 @@ This makes it useful for many applications, such as:
 - Clean, minimal interface
 - No ads, no tracking
 - Works entirely in the browser
-- Accepts `?gen=` query parameter for quick use in external links
+- Accepts `gen=` query parameter for quick use in external links
+- Personalize title by `gh1=`
 - Icons were simplified from Font Awesome to inline SVGs to save space and dependencies
 
 ---
@@ -57,3 +58,4 @@ I just simplified the frontend for personal and public use.
 ## Demo
 
 👉 [https://darojatun.github.io/qr/](https://darojatun.github.io/qr/)
+👉 [https://djatun.com/qr/?h1=My WiFi HotSpot&hen=http://mywifi.id/login?username=UsEr&password=PasWorD](https://djatun.com/qr/?h1=My WiFi HotSpot&hen=http://mywifi.id/login?username=UsEr&password=PasWorD)
