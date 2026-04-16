@@ -30,8 +30,8 @@ This makes it useful for many applications, such as:
 - Clean, minimal interface
 - No ads, no tracking
 - Works entirely in the browser
-- Accepts `gen=` query parameter for quick use in external links
-- Personalize title by `gh1=`
+- Accepts `gen=` query parameter for quick use in external links *but put it on the end
+- Personalize title by `h1=`
 - Icons were simplified from Font Awesome to inline SVGs to save space and dependencies
 
 ---
