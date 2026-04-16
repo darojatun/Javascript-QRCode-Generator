@@ -57,5 +57,5 @@ I just simplified the frontend for personal and public use.
 
 ## Demo
 
-👉 [https://darojatun.github.io/qr/](https://darojatun.github.io/qr/)
-👉 [https://djatun.com/qr/?h1=My%20WiFi%20HotSpot&hen=http://mywifi.id/login?username=UsEr&password=PasWorD]([https://djatun.com/qr/?h1=My WiFi HotSpot&hen=http://mywifi.id/login?username=UsEr&password=PasWorD](https://djatun.com/qr/?h1=My%20WiFi%20HotSpot&hen=http://mywifi.id/login?username=UsEr&password=PasWorD))
+-👉 [https://darojatun.github.io/qr/](https://darojatun.github.io/qr/)
+-👉 [https://jkt.djatun.com/qr/?h1=My%20WiFi%20HotSpot&hen=http://mywifi.id/login?username=UsEr&password=PasWorD]
